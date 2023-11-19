@@ -1,5 +1,5 @@
 from Observado import Aplicativo
-from Observer import ObservadorPalavrasPadrao
+from Observador import ObservadorPalavrasPadrao
 
 if __name__ == "__main__":
     aplicativo = Aplicativo()
